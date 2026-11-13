@@ -2,6 +2,5 @@
 eval "$(starship init zsh)"
 
 # update the path
-export PATH="/opt/homebrew/opt/openjdk@21/bin:$PATH"
-export JAVA_HOME="/opt/homebrew/opt/openjdk@21"
-export ANDROID_HOME="/Users/vishnuudayan/Projects/cmdline-tools/tools/bin"
+export PICO_SDK_PATH="/Users/vishnuudayan/Projects/r_pico_workspace/pico/pico-sdk"
+export PATH="/Applications/LinkServer_26.6.137:$PATH"
